@@ -13,3 +13,5 @@ This project was developed by myself and Pranay Begwani during our time at Pate'
 ## Results<a name="results"></a>
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+Pranay Begwani
+Matthew Davies
