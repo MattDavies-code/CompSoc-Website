@@ -7,7 +7,7 @@
 4. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Project Motivation<a name="motivation"></a>
-This project was developed by myself and Pranay Begwani during our time at Pate's Grammar School as the Co-Founders of Computer Science Society. We developed the website as a revision helper and to practice our HTML, CSS and JavaScript.
+This project was developed by myself and Pranay Begwani during our time at Pate's Grammar School as the Co-Founders of Computer Science Society. We developed the website as a fun way to revise and to practice our HTML + CSS.
 ## File Descriptions <a name="files"></a>
 
 ## Results<a name="results"></a>
